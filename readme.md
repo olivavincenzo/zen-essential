@@ -1,5 +1,13 @@
-# Zen Essentials Mod
+# Mod: Styled Essentials - Grayscale & Color
 
-This **Zen Mod** elevates your experience  Essentials by making some UI/UX changes.
+This mod for [Zen Browser](https://zen-browser.app/)  adds a dynamic visual style to the **Essentials** icons in the sidebar.
 
-![preview](zen-essential.png "preview")
+## Features
+
+-  Icon appears in grayscale when the site is **unloaded**
+-  Icon becomes colorful when the site is **active**
+-  A subtle border appears around the icon when the site is active, for better visibility
+
+## Example Screenshot
+
+![Example of the mod in action](zen-essential.png "Zen Browser Mod - Styled Essentials")
