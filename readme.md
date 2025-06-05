@@ -1,4 +1,4 @@
-# Style Essential Mod: Styled Essentials - Grayscale & Color
+# Styler Essential Mod: Styled Essentials - Grayscale & Color
 
 This mod for [Zen Browser](https://zen-browser.app/)  adds a dynamic visual style to the **Essentials** icons in the sidebar.
 
