@@ -1,0 +1,17 @@
+@-moz-document url-prefix("chrome:") {
+  @media (-moz-bool-pref: "essential") {
+  
+          .tab-icon-image[pending="true"] {
+              /* opacity: 0.1 !important; */
+              filter: grayscale(100%) !important;
+          }
+          .tabbrowser-tab[pending="true"] .tab-background {
+            opacity: 0.3 !important;
+        }
+
+        .tabbrowser-tab[zen-essential="true"]:not([pending]) .tab-stack .tab-background {
+            background-color: color-mix(in srgb, white var(--pins-bg-percentage), transparent) !important;
+            border: 2px solid #0000002a !important;
+        }
+  }
+}
