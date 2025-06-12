@@ -4,5 +4,68 @@
         "label": "Prova",
         "type": "checkbox",
         "defaultValue": false
+    },
+    {
+        "property": "essential",
+        "label": "Prova",
+        "type": "checkbox",
+        "defaultValue": false
+    },
+    {
+        "label": "bordo scheda mutata",
+        "type": "checkbox",
+        "property": "muted",
+        "defaultValue": false
+    },
+    {
+        "label": "Seleziona padding workspace top (solo se attivo Disabilita workspace top)",
+        "defaultValue": "4px",
+        "placeholder": "4px",
+        "property": "workspace_top.padding",
+        "type": "string"
+    },
+    {
+        "label": "Tab Name Font Size",
+        "defaultValue": "13px",
+        "placeholder": "11px",
+        "property": "psu.tab_title_fixes.font_size",
+        "type": "string"
+    },
+    {
+        "label": "Icon and Name Opacity for Tabs not Loaded",
+        "defaultValue": "0.55",
+        "placeholder": "1",
+        "property": "psu.tab_title_fixes.pending_opacity",
+        "type": "string"
+    },
+
+    {
+        "label": "Icon griglia",
+        "defaultValue": "80px",
+        "placeholder": "80px",
+        "property": "zen.container.grid_size",
+        "type": "string"
+    },
+
+    {
+        "label": "Padding tra icone",
+        "defaultValue": "16px",
+        "placeholder": "16px",
+        "property": "zen.container.padding",
+        "type": "string"
+    },
+
+    {
+        "label": "Size icone 32x32",
+        "defaultValue": "32px",
+        "placeholder": "32px",
+        "property": "zen.container.icon_size",
+        "type": "string"
     }
+
+
+
+
+
 ]
+
